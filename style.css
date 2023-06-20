@@ -4,21 +4,23 @@ body {
 }
 
 #title {
-    font-size: 70px;
+    font-size: 50px;
     color: white;
     text-align: center;
+    margin: 5px 0 5px 0;
 }
 
 #image {
-    width: 650px;
+    width: 450px;
     height: auto;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 10px;
 }
 
 .links .text {
-    font-size: 40px;
+    font-size: 25px;
     color: white;
     font-weight: 400px;
     text-align: center;

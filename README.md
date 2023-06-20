@@ -1,2 +1,5 @@
 # odin-recipes
-El website consiste de una pagina que muestra 3 recetas de comida tradicional argentina como las empanadas, el asado y los alfajores de maicena.
+- 👋 Hi, I’m @MattiScatena007
+- 👀 I’m interested in learning to program websites
+- 🌱 I’m currently learning how to program in html, CSS and JavaScript
+- 💞️ The website consists of a page that shows 3 traditional Argentine food recipes such as Empanadas, Asado and Alfajores de Maicena.

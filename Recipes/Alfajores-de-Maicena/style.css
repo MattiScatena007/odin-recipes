@@ -5,9 +5,11 @@ body {
 }
 .tituloprincipal {
     font-size: 43px;
+    margin-top: 10px;
 }
 .titulo {
     font-size: 30px;
+    margin-bottom: 5px;
 }
 .titulo,
 .tituloprincipal {
@@ -15,9 +17,15 @@ body {
 }
 .titulos-2 {
     text-align: left;
+    margin-bottom: 5px;
 }
 #parrafo {
     text-align: center;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.listas {
+    margin-top: 5px;
 }
 #image {
     width: 400px;

@@ -9,6 +9,13 @@ body {
 
 .autor {
     color: white;
+}
+
+.contacto {
+    text-align: right;
+}
+
+.inicio > div {
     flex: 1;
 }
 

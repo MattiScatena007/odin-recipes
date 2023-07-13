@@ -36,8 +36,8 @@ body {
 #image {
     width: 450px;
     height: auto;
-    flex: 0 1 0;
-    min-width: none;
+    flex: 0 1 auto;
+    min-width: 0px;
 }
 
 .links .text {
